@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+*.swp
+
+# Obsidian 内部缓存/回收站
+.trash/
+.obsidian/workspace*.json
+.obsidian/cache
+
+# 编辑器临时
+*.tmp
+~$*
+
+# 系统
+.DS_Store
+Icon?
